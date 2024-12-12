@@ -25,3 +25,11 @@
 
  - Riesgos Fisicos y Ambientales: Condiciones ambientales desfavorables en el trabajo pueden influr de forma negativa en el rendimiento de un trabajador. Por ejemplo, iluminacion insuficiente o ruido excesivo. Una manera de solucionar estos riesgos seria atender las quejas de los trabajadores respecto a los agentes fisicos.
    
+
+
+
+
+
+
+
+![fuente de alimentacion.jpg](https://github.com/Alberto-Rodriguez999/seguridad-trabajo-inform-tica/blob/main/img/fuente%20de%20alimentacion.jpg)
